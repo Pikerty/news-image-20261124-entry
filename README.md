@@ -1,7 +1,13 @@
 # The World in One Page — 24 November 2026
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Pikerty/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Pikerty/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 Entry for the make.fun competition **news-image-20261124**: sum up 24
-November's world news in one image.
+November's world news in one image. Bounty page:
+https://make.fun/bounty/news-image-20261124 — join make.fun with the
+referral link https://make.fun/r/mpwgq2aa.
 
 The image is a one-page newspaper front page for **Tuesday 24 November
 2026**, drawn from stories reported that day:
